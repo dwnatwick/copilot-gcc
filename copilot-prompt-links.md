@@ -6,7 +6,7 @@
 
 [MS-4018 GitHub labs](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/tree/master/Instructions/Labs)
 
-
+[MS-4004 Empower workforce with Copilot GitHub labs](https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/tree/master/Instructions/Labs)
 
 [Microsoft prompt adoption gallery](https://adoption.microsoft.com/en-us/copilot/prompt-gallery/)
 
