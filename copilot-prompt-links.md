@@ -4,7 +4,7 @@
 
 [Draft, analyze, and present with Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/paths/draft-analyze-present-microsoft-365-copilot/)
 
-
+[MS-4018 GitHub labs](https://github.com/MicrosoftLearning/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/tree/master/Instructions/Labs)
 
 
 
